@@ -1,0 +1,15 @@
+.done
+{
+	text-decoration:line-through;
+	opacity:0.5;
+}
+#todoc{
+	list-style-type:none;
+	margin: 0;
+	padding: 0; 
+}
+#todoc{
+	padding: 20px 0px 20px 0px;
+}
+.deleteItem{
+	float:right;}
